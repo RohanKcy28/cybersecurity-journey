@@ -16,8 +16,7 @@
 
 - Exploited a website in a **safe TryHackMe lab**.
 - Followed a walkthrough to complete 4 tasks.
-- Flag format used: `THM{example_flag}` (you can skip writing real flag).
-
+- Flag format used: `THM{example_flag}` 
 ---
 
 ### 💬 Reflection:
