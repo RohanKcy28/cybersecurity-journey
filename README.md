@@ -3,7 +3,7 @@
 Documenting my daily progress from beginner to SOC Analyst.
 
 🧠 **Daily Reflections**
-Track my learning journey through personal logs in the [Reflections folder](./Reflections)
+Track my learning journey through personal logs in the [Reflections folder](./0_Reflections)
 
 📂 Contents
 - [Reflections (Day 1–3)](./0_Reflections)
