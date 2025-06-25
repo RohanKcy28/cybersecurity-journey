@@ -12,4 +12,5 @@ Documenting my daily progress from beginner to SOC Analyst.
 - ✅ Day 1: Cybersecurity Basics
 - ✅ Day 2: Linux + TryHackMe Pre-Security
 - ✅Day 3: Networking (Theory, CLI, TryHackMe)
+- 
 🔵 More coming soon...
