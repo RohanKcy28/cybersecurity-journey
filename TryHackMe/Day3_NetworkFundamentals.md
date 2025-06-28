@@ -3,56 +3,60 @@
 ## ✅ Room Completed: [Network Fundamentals](https://tryhackme.com/room/networkfundamentals)
 
 ---
+🧠 Key Topics Covered
+🔹 1. What is Networking?
+Networking = The exchange of data between devices (nodes).
 
-## 🧠 What I Learned
+IP addresses identify devices.
 
-### 1. What is a Network?
+Devices communicate using protocols like TCP/IP.
 
-- Group of connected devices that can share data.
-- Types: LAN, WAN, WLAN, etc.
+🔹 2. Intro to LAN
+LAN (Local Area Network) = Group of connected devices in the same location.
 
-### 2. How Data Travels
+Uses switches, routers.
 
-- Through **Packets**.
-- Uses **IP Addresses** and **Ports**.
+IP range like 192.168.x.x for internal network communication.
 
-### 3. OSI Model Layers
+🔹 3. OSI Model
+7 Layers:
+Application > Presentation > Session > Transport > Network > Data Link > Physical
 
-- **7 layers** from Physical to Application.
-- Helps in understanding where issues occur in networking.
+Helps standardize communication.
 
-### 4. Common Devices
+Example:
 
-- **Router**: Connects networks.
-- **Switch**: Connects devices within a LAN.
-- **Firewall**: Filters traffic based on rules.
+Ping = Network layer (Layer 3)
 
-### 5. IP Addressing
+TCP/UDP = Transport layer (Layer 4)
 
-- IPv4 and IPv6 differences.
-- Private IP vs Public IP.
+🔹 4. Packets & Frames
+Packets = Structured data sent over networks.
 
-### 6. DNS
+Contain headers (with IP, port info), payload (actual data).
 
-- Translates domain names to IP addresses.
-- Works like the phonebook of the internet.
+Can be fragmented and reassembled.
 
-### 7. TCP vs UDP
+🔹 5. Extending Your Network
+Use of switches, routers, access points to expand LAN.
 
-- TCP: Reliable, connection-oriented.
-- UDP: Faster, connectionless.
+WAN (like the internet) = Wide Area Network
 
-### 8. Ports
+NAT helps convert private IPs to public.
 
-- Services run on specific ports (e.g., 80, 443, 22, 53, 3389).
+🔍 Real-World Skills Learned
+You used ipconfig, ping, netstat, traceroute, nslookup
 
----
+Understood IP addressing (IPv4/IPv6), subnets, gateways
 
-## 🧪 Hands-On Labs
+Learned how packets flow and how networks are structured
 
-- Identified my IP and gateway inside the virtual machine.
-- Used tools like `ping`, `traceroute`, and `netstat` inside the TryHackMe VM.
-- Answered quiz questions and hands-on terminal challenges.
+🧪 Tools Practiced
+Windows CMD or Linux terminal
+
+Ping, traceroute, ipconfig / ifconfig
+
+Reading routing and interface details
 
 ---
 
