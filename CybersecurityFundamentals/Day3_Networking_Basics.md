@@ -110,6 +110,30 @@ It helps computers know *which service* an incoming or outgoing connection is fo
 | 3389 | RDP          | TCP      |
 
 ---
+🔧 MAC Address (Media Access Control)
+A MAC address is a hardware ID unique to each device’s network interface.
+
+It works at OSI Layer 2 – Data Link Layer.
+
+Format: 00:1A:2B:3C:4D:5E (6 pairs of hexadecimal digits).
+
+Used to identify devices within a local network (LAN).
+
+Set by the manufacturer (hardcoded into the NIC), but can be spoofed if needed.
+
+Why it's important:
+
+Switches forward frames using MAC addresses.
+
+Helps track or control which device connects to a network.
+
+Used in ARP (Address Resolution Protocol) to map an IP → MAC.
+
+Fun Fact:
+
+MAC address is not the same as IP address.
+IP = logical address (Layer 3), MAC = physical address (Layer 2)
+
 
 ---
 
