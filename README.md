@@ -2,11 +2,14 @@
 
 Documenting my daily progress from beginner to SOC Analyst.
 
-## 🗂️ Contents
-- 🛡️ TryHackMe Notes
-- 🐧 Linux & OS Concepts
-- 🔍 Hands-on Labs & Reflections
-- 🧠 Daily Logs in Notion
+🧠 **Daily Reflections**
+Track my learning journey through personal logs in the [Reflections folder](./0_Reflections)
+
+📂 Contents
+- [Reflections (Day 1–3)](./0_Reflections)
+- [TryHackMe Notes](./TryHackMe)
+- [Linux & OS Basics](./Linux)
+- [Cybersecurity Fundamentals](./CybersecurityFundamentals)
 
 ## 📆 Current Progress
 - ✅ Day 1: Cybersecurity Basics
